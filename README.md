@@ -25,7 +25,7 @@ I'm Munashe, an aspiring software engineer based in Greater London.
 
 ----
 
-## 📈 Currently Learning
+## Currently Learning
 - Machine Learning
 - JavaScript
 - React
