@@ -1,3 +1,7 @@
+![Header](./github-header-banner.png)
+
+
+
 # About me 
 
 I'm Munashe, an aspiring software engineer based in Greater London.
