@@ -1,16 +1,36 @@
-## Hi there 👋
+# About me 
 
-<!--
-**nashe-fr/nashe-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Munashe, an aspiring software engineer based in Greater London.
+• Studying Software Engineering BSc (Hons) @ Bournemouth University.
+• Interest in building practical software and understanding ho systems work
 
-Here are some ideas to get you started:
+- Currently building NQuant (working title) - a quantitative finance research and backtesting platform designed to analyse financial markets,     evaluate trading strategies and explore portfolio risk.
+- Open to collaborating on interesting software projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+## Technologies & Tools
+
+**Languages**
+- Python
+- SQL
+- JavaScript
+- TypeScript
+**Frameworks & Technologies**
+- TanStack Start
+- Tailwind CSS
+- SQLite
+- Supabase
+- Git & GitHub
+
+----
+
+## 📈 Currently Learning
+- Machine Learning
+- JavaScript
+- React
+- System analysis and design
+- Cloud technologies
+- AI assisted engineering
+
+----
